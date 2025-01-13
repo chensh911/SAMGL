@@ -1,0 +1,1 @@
+{"dataset": "microlens100k", "method": "rphgnn", "use_nrl": false, "use_input": true, "use_label": false, "even_odd": "all", "use_all_feat": true, "train_strategy": "common", "input_drop_rate": 0.2, "drop_rate": 0.0, "hidden_size": 512, "squash_k": 5, "num_epochs": 200, "max_patience": 30, "embedding_size": 512, "rps": "sp_3.0", "seed": 0, "date": "20241008-165114"}
